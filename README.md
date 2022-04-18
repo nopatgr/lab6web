@@ -11,4 +11,9 @@
 
  # 2. Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap)<br>
 
- ## 1. Quick start 
+ ## 1. Quick start<br>
+
+  Buka web https://getbootstrap.com/docs/5.1/getting-started/introduction/ lalu copy.<br>
+
+  ![lab6web](img/quickstar.png)
+
